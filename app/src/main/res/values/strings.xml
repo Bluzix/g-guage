@@ -47,5 +47,8 @@
     <!-- Strings for the Navigation Drawer -->
     <string name="my_inventory">My Inventory</string>
     <string name="calendar">Calendar</string>
-    <string name="known_offerings">Known Offerings</string>
+    <string name="catalog">Catalog</string>
+
+    <!-- Strings for descriptions -->
+    <string name="fab_description">Perform Action</string>
 </resources>
