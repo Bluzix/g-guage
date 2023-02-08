@@ -44,7 +44,7 @@
         vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
     </string>
 
-    <!-- Strings for the Navigation Drawer -->
+    <!-- Strings for the Navigation Drawer Items-->
     <string name="my_inventory">My Inventory</string>
     <string name="calendar">Calendar</string>
     <string name="catalog">Catalog</string>
