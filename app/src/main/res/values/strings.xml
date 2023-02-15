@@ -43,4 +43,12 @@
         libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus
         vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
     </string>
+
+    <!-- Strings for the Navigation Drawer Items-->
+    <string name="my_inventory">My Inventory</string>
+    <string name="calendar">Calendar</string>
+    <string name="catalog">Catalog</string>
+
+    <!-- Strings for descriptions -->
+    <string name="fab_description">Perform Action</string>
 </resources>
